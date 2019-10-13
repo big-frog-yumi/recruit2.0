@@ -28,7 +28,7 @@ apiRoutes.post('http://localhost:8081', function (req, res) {
       port:465,
       auth: {
         user: "1966919376@qq.com",
-        pass: ammaejzfkuekecef
+        pass: //这是授权码
       }
     });
 
