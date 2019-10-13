@@ -23,7 +23,7 @@ router.post('/email', function (req, res) {
     port: 465,
     auth: {
       user: "1966919376@qq.com",
-      pass: nmvobomndeqjfaij
+      pass: //这是授权码
     }
   });
 
