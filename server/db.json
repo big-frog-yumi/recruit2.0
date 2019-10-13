@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "name": "张三",
+      "email": "236181@qq.com",
+      "stunum": "2018091601011",
+      "phone": "18727182911",
+      "direct": "前端",
+      "intro": "fine",
+      "id": 1
+    },
+    {
+      "name": "李四",
+      "phone": "18828092392",
+      "email": "1966919376@qq.com",
+      "stunum": "2018091602002",
+      "intro": "fine",
+      "direct": "后端",
+      "id": 2
+    },
+    {
+      "name": "王凯",
+      "phone": "19220920392",
+      "email": "19631876@qq.com",
+      "stunum": "2018091602032",
+      "intro": "fine",
+      "direct": "运维",
+      "id": 3
+    },
+    {
+      "name": "徐凯",
+      "phone": "17267828798",
+      "email": "3261732@qq.con",
+      "stunum": "2018091602017",
+      "intro": "fine",
+      "direct": "运维",
+      "id": 4
+    },
+    {
+      "name": "刘芳",
+      "phone": "17398827672",
+      "email": "123213123@qq.com",
+      "stunum": "2018091613022",
+      "intro": "fine",
+      "direct": "前端",
+      "id": 5
+    },
+    {
+      "name": "李华",
+      "phone": "18273289282",
+      "email": "361721@qq.com",
+      "stunum": "2018091616011",
+      "intro": "fine",
+      "direct": "后端",
+      "id": 6
+    },
+    {
+      "name": "大大",
+      "phone": "13882556578",
+      "email": "1146992886@qq.com",
+      "stunum": "2018091618029",
+      "intro": "我啥也不会，孙姐姐快来教教我",
+      "direct": "前端",
+      "id": 7
+    },
+    {
+      "name": "林悦",
+      "phone": "18232332322",
+      "email": "19921212@qq.com",
+      "stunum": "2018091618022",
+      "intro": "fine",
+      "direct": "运维",
+      "id": 8
+    }
+  ]
+}
